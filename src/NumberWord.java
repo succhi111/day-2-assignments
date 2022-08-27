@@ -1,7 +1,10 @@
 import java.util.Scanner;
 
 public class NumberWord {
-    static void display(int num) {
+    public static void main(String[] args) {
+        Scanner r = new Scanner(System.in);
+        System.out.println("Enter any number to print word");
+        int num = r.nextInt();
 
         if (num == 1)
             System.out.println("one");
@@ -27,11 +30,4 @@ public class NumberWord {
             System.out.println("please enter single digit from 0to 9");
     }
 
-
-    public static void main(String[] args) {
-        Scanner r = new Scanner(System.in);
-        System.out.println("Enter any number to print word");
-        int num = r.nextInt();
-        display(num);
-    }
 }
