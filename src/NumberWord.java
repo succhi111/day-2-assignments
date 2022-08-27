@@ -29,5 +29,4 @@ public class NumberWord {
         else
             System.out.println("please enter single digit from 0to 9");
     }
-
 }
