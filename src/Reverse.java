@@ -12,7 +12,6 @@ public class Reverse {
             n = n / 10;
 
         }
-
     }
 
 }
