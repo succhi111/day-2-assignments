@@ -6,8 +6,8 @@ public class ReverseFor {
         System.out.println("Enter the number : ");
         int n = sc.nextInt();
 
-        int r= 0;
-        for(;n> 0;) {
+        int r = 0;
+        for (; n > 0; ) {
             r = n % 10;
             n = n / 10;
 
