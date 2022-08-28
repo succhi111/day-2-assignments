@@ -3,16 +3,16 @@ import java.util.Scanner;
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number : ");
-        int a = sc.nextInt();
-        int b = a;
-        int remainder = 0;
-        int reverse = 0;
-        for (; b != 0; ) {
-            remainder = b % 10;
-            reverse = reverse * 10 + remainder;
-            b = b / 10;
+        int n= sc.nextInt();
+        int c=n;
+        int r=0;
+        int s=0;
+        for (; n>0; ) {
+            r = n% 10;
+            s = s * 10 + r;
+            n = n / 10;
         }
-        if (a == reverse)
+        if (c==s)
             System.out.println("Entered number is a palindrome.");
         else
 

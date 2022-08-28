@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9a4cc7f-1da0-4ce6-b97e-39609b9a9f6c" name="Changes" comment="" />
+    <list default="true" id="b9a4cc7f-1da0-4ce6-b97e-39609b9a9f6c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PalindromeFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PalindromeFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseFor.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +38,28 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/suchendra mishra/Bridgelabz/day-2-assignments&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.PalindromeFor">
+    <configuration name="PalindromeFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromeFor" />
+      <module name="day-2-assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reverse" />
+      <module name="day-2-assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseFor" />
+      <module name="day-2-assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SumFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SumFor" />
       <module name="day-2-assignments" />
@@ -50,6 +76,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromeFor" />
+        <item itemvalue="Application.ReverseFor" />
+        <item itemvalue="Application.Reverse" />
         <item itemvalue="Application.SumFor" />
         <item itemvalue="Application.SumNat" />
       </list>
